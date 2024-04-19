@@ -1,4 +1,4 @@
-## Oi eu sou o Vitor Xavier, Estudante de Sistemas para internet!
+## Hi, I'm Vitor Xavier, Internet Systems Student!
 <div align="center">
   <a href="https://github.com/vxc333">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vxc333&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
