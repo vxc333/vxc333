@@ -49,8 +49,8 @@
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vxc333&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxc333&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vxc333&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=3600"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxc333&layout=compact&langs_count=7&theme=dark&cache_seconds=3600"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vxc333&theme=dark&layout=compact" />
 </div>
