@@ -1,6 +1,9 @@
 <div align="center">
-  <h1>Hi, I'm Vitor Xavier! 👋</h1>
-  <h3>Fullstack Developer | Tech Enthusiast | Speaker</h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Vitor+Xavier!+%F0%9F%91%8B;Fullstack+Developer;Tech+Enthusiast;Speaker+and+Mentor" alt="Typing SVG" />
+  </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=vxc333&color=blue&style=flat-square" />
 </div>
 
 <p align="center">
@@ -9,7 +12,7 @@
 
 ---
 
-### 💻 My Tools and Technologies
+## 🚀 Tech Stack
 
 <p align="center">
   <strong>Front-end:</strong><br>
@@ -23,7 +26,6 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
-
 <p align="center">
   <strong>Back-end:</strong><br>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -32,7 +34,6 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
-
 <p align="center">
   <strong>Databases and Other Technologies:</strong><br>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -45,17 +46,26 @@
 
 ---
 
-### 📊 My GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <a href="https://github.com/vxc333">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vxc333&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxc333&layout=compact&langs_count=7&theme=dark"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vxc333&theme=dark&layout=compact" />
 </div>
 
 ---
 
-### 📫 Get in Touch
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vxc333&theme=darkhub&column=7" />
+</div>
+
+---
+
+## 📫 Get in Touch
 
 <div align="center">
   <a href="mailto:vitor.xavier.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
