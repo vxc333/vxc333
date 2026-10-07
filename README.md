@@ -102,14 +102,6 @@ Interactive educational software for animal osteology study, adopted by 3 univer
 
 ---
 
-## GitHub Metrics
-
-<div align="center">
-<img src="https://github.com/vxc333/vxc333/blob/main/github-metrics.svg" />
-</div>
-
----
-
 ## Get in Touch
 
 <div align="center">
